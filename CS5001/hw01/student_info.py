@@ -1,5 +1,0 @@
-print('Name: Weisong Chen')
-print('Birthday: Nov 5 1994')
-print('Hobbies: Reading, Watching movies, Basketball')
-print('Favorite book: The Moon and Six Pence')
-print('Favorite movie: Dead Poets Society')
