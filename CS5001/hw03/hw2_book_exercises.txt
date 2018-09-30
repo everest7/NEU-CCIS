@@ -1,0 +1,16 @@
+1. True, False
+
+2. A mathematician George Boole who invented the Boolean logic.
+
+3. Any integer but 0.
+
+4. 0
+
+5. True
+
+6. (a)True  (b)True  (c)False  (d)True  (e)False  (f)True. (g)True
+   (h)False  (i)False  (j)True  (k)True  (l)False
+
+7. (A)True. (B)False. (C)False. (D)True. (E)False. (F)True. (G)False. 
+   (H)True. (I)True.  (J)True.  (K)False (L)True.  (M)False. (N)True. 
+   (O)True. (P)True.  (Q)False. (R)True. (S)False. (T)True. (U)True. (V)False
