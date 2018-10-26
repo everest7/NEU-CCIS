@@ -1,0 +1,21 @@
+1. No, the function proc() has already been defined. 
+
+2. Yes, but the program won't print anything.
+
+3. No, function proc() does not have a return value, therefore proc(5) is not determined.
+
+4. Yes, the program will print 26 as result.
+
+5. No, the function proc() needs two arguments, while there is only on argument when calling proc().
+
+6. No, the function proc() needs only one argument, while it passed two arguments when calling proc().
+
+7. Yes, the program will print 50 as result.
+
+8. It will print 10 instead. After passing the argument 10 to the function proc(), the return value 200 has
+    not been assigned to any variable. 'num' is still equal to 10, so it will print 10 instead.
+
+9. Yes, the program is legal. The actual parameter and formal can have the same name.
+
+10. Yes, the program is legal. When calling the function proc(), the actual parameter's value y = 10 is assigned to 
+    formal parameter x automatically. x and y are just symbols.
