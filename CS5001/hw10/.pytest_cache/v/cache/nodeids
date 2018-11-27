@@ -1,0 +1,13 @@
+[
+  "pacman_game_starter/dots_test.py::test_constructor",
+  "pacman_game_starter/dots_test.py::test_eat",
+  "pacman_game_starter/dots_test.py::test_dots_left",
+  "pacman_game_starter/eye_test.py::test_constructor",
+  "pacman_game_starter/eye_test.py::test_look",
+  "pacman_game_starter/eyes_test.py::test_constructor",
+  "pacman_game_starter/game_controller_test.py::test_constructor",
+  "pacman_game_starter/maze_test.py::test_constructor",
+  "pacman_game_starter/maze_test.py::test_eat_dots",
+  "pacman_game_starter/pacman_test.py::test_constructor",
+  "pacman_game_starter/pinky_test.py::test_constructor"
+]

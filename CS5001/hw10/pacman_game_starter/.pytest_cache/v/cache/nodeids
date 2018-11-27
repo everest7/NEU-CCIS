@@ -1,0 +1,13 @@
+[
+  "dots_test.py::test_constructor",
+  "dots_test.py::test_eat",
+  "dots_test.py::test_dots_left",
+  "eye_test.py::test_constructor",
+  "eye_test.py::test_look",
+  "eyes_test.py::test_constructor",
+  "game_controller_test.py::test_constructor",
+  "maze_test.py::test_constructor",
+  "maze_test.py::test_eat_dots",
+  "pacman_test.py::test_constructor",
+  "pinky_test.py::test_constructor"
+]

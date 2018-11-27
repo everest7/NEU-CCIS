@@ -1,0 +1,4 @@
+{
+  "dots_test.py::test_eat": true,
+  "maze_test.py::test_eat_dots": true
+}
