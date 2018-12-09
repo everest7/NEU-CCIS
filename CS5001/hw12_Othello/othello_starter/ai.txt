@@ -1,0 +1,18 @@
+• The AI does not choose a random legal move, instead, it will scan through
+all legal moves and choose one that filps the most black tiles.
+
+• Here is my implementation: "Pick next move" Algorithm
+Create an empty list, for every grid in the board, call the check_legal_move()
+method in Tile class to see if the current grid is a legal move for AI. If so,
+add the move to the list. At the same time, check the number of black tiles
+that will be flipped if make the move, compare with the previous moves and
+store the one that will flipped the most black tiles as best move.
+
+• I played with computer for 5 times and did my best to beat the computer. I
+won 3 out of 5 times.
+
+• Possible improvement for AI
+After checking the possible legal moves for itself in the current round, AI will
+check and record all possible human's legal move. For each possible human's move,
+AI will continuously check the legal moves for itself(so on and so forth), and choose
+the move that filps the most black tiles.
