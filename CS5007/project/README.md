@@ -37,7 +37,7 @@ client must connect to that port.
 
 This is run just the same as queryserver is run;
 
-**../data/** can be replaced with any data directory.
+**../data/** can be replaced with any data directory. data/ directory has been modified from original to avoid stackoverflow.
 
 **1500** can be replaced with any port you want the server to listen on.
 
