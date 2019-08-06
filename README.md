@@ -1,3 +1,4 @@
 # NEU-CCIS
-# Homework and labs for courses in College of Computer and Information Science
-# Modified ReadMe.md
+Homework[u], lab and notes for courses.
+
+Add notes for [CS5800 Algorithm ](https://github.com/everest7/NEU-CCIS/tree/master/CS5800Algorithm)
