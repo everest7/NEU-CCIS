@@ -1,4 +1,4 @@
-###Template Method Pattern  
+### Template Method Pattern  
 The template method pattern defines the steps of an algorithm and allows subclasses to provide the implementation for one or more steps.  
 
 ** A template for this pattern**  

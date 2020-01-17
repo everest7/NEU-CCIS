@@ -1,4 +1,4 @@
-###Observer Pattern   
+### Observer Pattern   
 The Observer Pattern is a design that lets one or more objects watch the state of one or more other objects.  
 * The watcher is referred to as the **Observer**
 * The watched object is referred to as the **Subject**

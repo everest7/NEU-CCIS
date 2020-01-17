@@ -1,4 +1,4 @@
-###Iterator Pattern  
+### Iterator Pattern  
 The Iterator Pattern allows the access for elements of an aggregate object sequentially without exposing its underlying representation.  
 
 **Example**  

@@ -1,7 +1,7 @@
 ###Design Patterns   
 **Design patterns** are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.   
 
-####Categories    
+#### Categories    
 **Creational Patterns** involve object instantiation and all provide a way to decouple a client from the objects it needs to instantiate.  
 * Singleton, Abstract Factory, Factory Method, Builder, Prototype  
 
@@ -12,7 +12,7 @@
 * Decorator, Proxy, Composite, Facade, Adapter, Bridge, Flyweight   
 
 
-####Description   
+#### Description   
 * **Decorator** wraps an object to provide new behavior.  
 * **State** encapsulates state-based behaviors and uses delegation to switch between behaviors.   
 * **Iterator** provides a way to traverse a collection of objects without exposing its implementation.   

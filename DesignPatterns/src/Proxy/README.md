@@ -1,4 +1,4 @@
-###Proxy Pattern   
+### Proxy Pattern   
 Proxy Pattern is used when we need to create a wrapper to cover the main object's complexity from the client. **It controls 
 and manages access to the object they are protecting.**  
 An example would be: a check or credit card is a proxy for what is in our bank account. It can be used in place of cash,

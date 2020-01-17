@@ -1,4 +1,4 @@
-###Compound Pattern and Model View Controller
+### Compound Pattern and Model View Controller
 We can use Model View Controller pattern to explain the compound pattern.  
 **Model** contains all the state, data and application logic needed to maintain the application.  
 **View** is what's presented to the users and how users interact with the app.  

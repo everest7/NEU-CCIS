@@ -1,4 +1,4 @@
-###Decorator Pattern
+### Decorator Pattern
 Motivated based on your need to augment an object with additional functionality
 without rewriting existing code(violated OCP Principle), and you want to keep the new functionality separate(SRP).  
 
