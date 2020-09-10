@@ -1,9 +1,0 @@
-[
-  "frequencies_test.py::test_ngram_constructor",
-  "frequencies_test.py::test_add_item",
-  "frequencies_test.py::test_top_n_counts",
-  "frequencies_test.py::test_top_n_freqs",
-  "frequencies_test.py::test_frequency",
-  "prime_generator_test.py::test_primes_to_max",
-  "text_cleaner_test.py::test_text_process"
-]

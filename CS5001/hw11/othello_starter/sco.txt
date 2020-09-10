@@ -1,5 +1,0 @@
-cathy 11
-mike 10
-jack 7
-neil 9
-hagrid 8
